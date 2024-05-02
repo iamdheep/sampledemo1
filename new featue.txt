@@ -3,3 +3,5 @@ new feature 2
 
 
 now added all feature and ready to move to master branch
+
+there are few feature left in feature 2 branch that are now incorporated with master
